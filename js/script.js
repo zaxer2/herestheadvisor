@@ -24,5 +24,3 @@ var elem = document.getElementById('advisor');
 elem.innerHTML = randomItem[0];
 
 document.getElementById("myImg").src = randomItem[1];
-
-}
