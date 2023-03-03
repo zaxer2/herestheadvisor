@@ -8,12 +8,12 @@ var myArray = [
 ["Raconteur", "https://cdn.discordapp.com/attachments/1079618547585663018/1079627570699567114/Ouiser_Token.png"],
 ["Shiner", "https://cdn.discordapp.com/attachments/1079618547585663018/1079626595406446623/Sparkle_Token.png"],
 ["Charmer", "https://cdn.discordapp.com/attachments/1079618547585663018/1079625988280950855/Charmed_Stray_Token.png"],
-["Muncher", "https://cdn.discordapp.com/attachments/1079618547585663018/1079625414605013062/Judith_the_Scourge_Diva_Token.png"],
+["Muncher", "https://media.discordapp.net/attachments/1079864807991287948/1080899765451100160/Judith_Token.png"],
 ["Springer", "https://cdn.discordapp.com/attachments/1079618547585663018/1079624378695831623/Pawper_Token.png"],
 ["Rocker", "https://cdn.discordapp.com/attachments/1079618547585663018/1079627986657087519/Kimchi_Token.png"],
 ["Peeper", "https://cdn.discordapp.com/attachments/1079618547585663018/1079628744043528202/Margie_Token.png"],
 ["🐱", "https://cdn.discordapp.com/attachments/1079618547585663018/1079621587256479784/CatEmoteToken.png"],
-
+["Sitter", "https://media.discordapp.net/attachments/1079864807991287948/1080899804021932143/Wendy_Token.png"],
 ];
   
 
